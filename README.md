@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm an iOS Developer in Hong Kong
 
 <!--
 **CarusCha/CarusCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
